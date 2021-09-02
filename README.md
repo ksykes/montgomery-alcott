@@ -99,3 +99,39 @@ Deployment instructions from [React documentation](https://create-react-app.dev/
 You can learn more in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Planning Notes
+
+React notes: https://github.com/HackerYou/bootcamp-notes/#react-and-firebase
+Accessibility notes: https://github.com/HackerYou/pre-bootcamp-review/tree/master/accessibility
+
+DATA:
+https://laurasookduncombe.wordpress.com/pirate-women-the-princesses-prostitutes-and-privateers-who-ruled-the-seven-seas/
+https://www.smithsonianmag.com/history/swashbuckling-history-women-pirates-180962874/
+https://www.postandcourier.com/news/the-true-and-false-stories-of-anne-bonny-pirate-woman-of-the-caribbean/article_e7fc1e2c-101d-11e8-90b7-9fdf20ba62f8.html
+https://www.postandcourier.com/news/a-22-year-old-youtuber-may-have-solved-anne-bonny-pirate-mystery-300-years-after/article_78fc0a2e-2914-11eb-a5f5-03b65f4d281a.html
+https://www.loc.gov/rr/program/bib/pirates/index.html
+https://www.rmg.co.uk/stories/topics/golden-age-piracy
+https://en.wikipedia.org/wiki/Women_in_piracy
+
+React Simple Maps
+https://www.react-simple-maps.io
+https://www.react-simple-maps.io/examples/
+https://www.react-simple-maps.io/docs/getting-started/
+
+Editor for map data
+https://mapshaper.org
+https://hackernoon.com/how-to-convert-and-prepare-topojson-files-for-interactive-mapping-with-d3-499cf0ced5f
+
+Leaflet
+https://www.smashingmagazine.com/2020/02/javascript-maps-react-leaflet/
+
+Mapbox
+https://medium.com/geekculture/building-an-interactive-map-with-mapbox-react-f335384f4863
+
+react-map-gl
+https://visgl.github.io/react-map-gl/examples/geojson-animation
+https://github.com/visgl/react-map-gl/tree/6.1-release/examples/geojson-animation
+
+Deployment & routing
+https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/
